@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project helps **OilyGiant mining company** find the best location for new oil wells by analyzing geological data from three regions and using advanced statistical methods to assess profitability and risk.
+This project helps **mining company** find the best location for new oil wells by analyzing geological data from three regions and using advanced statistical methods to assess profitability and risk.
 
 ## Business Problem
 
@@ -59,6 +59,7 @@ OilyGiant needs to decide which region to develop for oil extraction while minim
 - ✅ **Highest expected profit:** $4.56 million average return
 - ✅ **Most reliable model:** Lowest RMSE (0.89) indicates accurate predictions
 - ✅ **Guaranteed profitability:** 95% confidence interval shows minimum profit of $338k
+
 
 
 
